@@ -8,7 +8,7 @@ $(function(){
             hako=0;
         }else if(hako <= 0){ 
             hako = 0;
-            $("#content").text(hako+"個入っています。まだ入ります。");
+            $("#content").text(hako+"個。入っていません");
 
         }else{
             $("#content").text(hako+"個入っています。まだ入ります");

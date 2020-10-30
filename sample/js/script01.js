@@ -19,7 +19,7 @@ $(function(){
     　　
     　　
     $("#button01").on("click",function(){
-        sqayhello();
+        sayHello();
     })
     
     $("#button02").on("click",function(){
@@ -39,8 +39,4 @@ $(function(){
         samTwo(num1,num2)
     })
     
-    
-
-
-
-})
+s})
